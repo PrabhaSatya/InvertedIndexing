@@ -1,0 +1,12 @@
+How to execute:
+==============
+
+1. Go to the project folder
+
+2. execute this command on terminal.
+------------------------------------ 
+ sh invertedindexing.sh
+------------------------------------
+3. Then it will asks for the path of the folder to be indexed,give the path of a folder containing text files. For example, inputfiles.zip contains sample text files to be indexed. Extract this, and give its name as path of a folder. 
+4. After indexing is done, give input query.
+5. If query  match, all the doc containing that query will be shown.For example,give the word as bhagat singh.
